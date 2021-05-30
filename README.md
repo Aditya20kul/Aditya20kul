@@ -1,14 +1,14 @@
 
 ### Hi there 👋 I am [Aditya Kulkarni](https://aditya20kul.github.io/)
 
-<a href="https://www.linkedin.com/in/adityakulkarni20/">
-  <img align="left" alt="Aditya's LinkdeIN" width="30px" margin-right="5px" src="https://img.icons8.com/fluent/50/000000/linkedin.png"/>
+<a href="https://www.linkedin.com/in/adityakulkarni20/" target="_blank">
+  <img align="left" alt="Aditya's LinkdeIN" width="35px" src="https://img.icons8.com/fluent/50/000000/linkedin.png"/>
 </a>
-<a href="https://leetcode.com/kulkarni20/">
-  <img align="left" alt="Aditya's Leetcode" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+<a href="https://leetcode.com/kulkarni20/" target="_blank">
+  <img align="left" alt="Aditya's Leetcode" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://twitter.com/Aditya_kul20">
-  <img align="left" alt="Aditya's Twitter" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>
+<a href="https://twitter.com/Aditya_kul20" target="_blank">
+  <img align="left" alt="Aditya's Twitter" width="35px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>
 </a>
 <br />
 <br />
@@ -23,7 +23,8 @@
 
 <div><p>My profile overview: </p></div>
 
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya20kul&show_icons=true)
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya20kul&show_icons=true&theme=tokyonight)
+)
 <br />
 <br />
 <br />
