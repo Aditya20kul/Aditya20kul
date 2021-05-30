@@ -8,7 +8,7 @@
   <img align="left" alt="Aditya's Leetcode" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://twitter.com/Aditya_kul20" target="_blank">
-  <img align="left" alt="Aditya's Twitter" width="35px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>
+  <img align="left" alt="Aditya's Twitter" width="35px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 <br />
 <br />
@@ -24,7 +24,8 @@
 <div><p>My profile overview: </p></div>
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya20kul&show_icons=true&theme=tokyonight)
-)
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"></img>
+
 <br />
 <br />
 <br />
