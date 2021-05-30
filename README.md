@@ -23,7 +23,7 @@
 
 <div><p>My profile overview: </p></div>
 
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya20kul&show_icons=true&theme=tokyonight)    ![](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya20kul&show_icons=true&theme=tokyonight)    ![](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif | width=100)
 
 
 <br />
