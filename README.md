@@ -23,6 +23,7 @@
 
 <div><p>My profile overview: </p></div>
 Hello, I am Aditya Kulkarni, Final Year Undergraduate of Information Technology from Government College of Engineering, Aurangabad. I am a Web Enthusiast 👨‍💻. I am skilled in C++, Python, NodeJS, ReactJS, MongoDB. I am currently looking for Software/Fullstack(MERN) developer roles. I also like problem solving and try my best to solve Data Structures and Algorithm based problems as much as possible. Apart from Coding I also like to watch as well as play Cricket !
+
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya20kul&show_icons=true&theme=tokyonight)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="320px" width="230px"></img>
 
 
