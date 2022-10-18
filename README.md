@@ -23,7 +23,8 @@
 
 <div><p>My profile overview: </p></div>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hello 👋, I am Aditya, currently working as a Software Engineer at Amdocs 👨‍💻. I am skilled in ReactJS, NodeJS, PostgreSQL, PHP, Java, C++.
-
+<br />
+<br />
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya20kul&show_icons=true&theme=tokyonight)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 
