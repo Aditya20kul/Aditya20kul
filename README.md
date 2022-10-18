@@ -7,7 +7,7 @@
 <a href="https://leetcode.com/kulkarni20/" target="_blank">
   <img align="left" alt="Aditya's Leetcode" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://twitter.com/Aditya_kul20" target="_blank">
+<a href="https://twitter.com/adddytwt" target="_blank">
   <img align="left" alt="Aditya's Twitter" width="35px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 <br />
@@ -22,7 +22,7 @@
 </div>
 
 <div><p>My profile overview: </p></div>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hello 👋, I am Aditya Kulkarni, Final Year Undergraduate of Information Technology from Government College of Engineering, Aurangabad 👨‍🎓. I am a Web Enthusiast 👨‍💻. I am skilled in C++, Python, NodeJS, ReactJS, MongoDB. I am currently looking for Software/Fullstack(MERN) developer roles. I also like problem solving and try my best to solve Data Structures and Algorithm based problems as much as possible. Apart from Coding I also like to watch as well as play Cricket !
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hello 👋, I am Aditya, currently working as a Software Engineer at Amdocs 👨‍💻. I am skilled in ReactJS, NodeJS, PostgreSQL, PHP, Java, C++.
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya20kul&show_icons=true&theme=tokyonight)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="320px" width="230px"></img>
 
