@@ -7,7 +7,7 @@
 <a href="https://leetcode.com/kulkarni20/" target="_blank">
   <img align="left" alt="Aditya's Leetcode" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://twitter.com/adddytwt" target="_blank">
+<a href="https://twitter.com" target="_blank">
   <img align="left" alt="Aditya's Twitter" width="35px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 <br />
